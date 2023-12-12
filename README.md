@@ -12,3 +12,4 @@ Object Oriented Programming (OOP) is a programming paradigm, that is, a programm
 
 **Polymorphism:** Ability to implement inherited properties or methods in different ways across multiple abstractions.
 
+![OOP drawio](https://github.com/davidhj23/oop/assets/12940631/5d3aeece-9cbc-4995-b30c-23ca7f109342)
